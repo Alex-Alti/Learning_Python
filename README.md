@@ -1,1 +1,1 @@
-# Learning_Python
+# Learning and practicing the fundamentals of Python
